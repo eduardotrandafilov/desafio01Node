@@ -1,6 +1,6 @@
 # Cadastro de Projeto
 
-API desenvolvido em Node.js realiza um **CRUD** relacionado a projetos e tarefas.
+API desenvolvida em Node.js realiza um **CRUD** relacionado a projetos e tarefas.
 
 # Começando
 
