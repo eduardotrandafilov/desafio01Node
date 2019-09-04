@@ -12,6 +12,8 @@ API desenvolvida em Node.js realiza um **CRUD** relacionado a projetos e tarefas
 
 3. Como sugestão , realizar o download do pacote nvm (gerenciador de pacotes do node).[Download nvm](https://github.com/nvm-sh/nvm)
 
+4. Utilizar um editor de texto. Como preferência utilizei o [vscode](https://code.visualstudio.com/download).
+
 ## Instalação
 
 1. Abra o terminal digite yarn e as dependências serão baixadas dentro do diretório node_modules e linkadas com outras automaticamente.
