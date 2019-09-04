@@ -1,6 +1,6 @@
 # Cadastro de Projeto
 
-Aplicativo realiza um **CRUD** relacionado a projetos e tarefas.
+API desenvolvido em Node.js realiza um **CRUD** relacionado a projetos e tarefas.
 
 # Começando
 
