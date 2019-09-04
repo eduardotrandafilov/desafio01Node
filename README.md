@@ -8,12 +8,9 @@ API desenvolvida em Node.js realiza um **CRUD** relacionado a projetos e tarefas
 
 1. Realizar o clone do projeto git clone https://github.com/eduardotrandafilov/desafio01Node.git
 
-2. Baixar o gerenciador de pacotes yarn ou npm . Utilizarei o yarn no SO Linux Mint :
+2. Baixar o gerenciador de pacotes yarn ou npm . Utilizarei o yarn no SO Linux Mint : [Download yarn](https://github.com/yarnpkg/yarn/releases/tag/v1.17.3)
 
-[Download yarn](https://github.com/yarnpkg/yarn/releases/tag/v1.17.3)
-
-3. Como sugestão , realizar o download do pacote nvm (gerenciador de pacotes do node) 
-[Download nvm](https://github.com/nvm-sh/nvm)
+3. Como sugestão , realizar o download do pacote nvm (gerenciador de pacotes do node).[Download nvm](https://github.com/nvm-sh/nvm)
 
 ## Instalação
 
