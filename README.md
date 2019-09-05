@@ -1,4 +1,8 @@
-# Cadastro de Projeto
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/9969265/64390860-ddc75280-d01c-11e9-8d65-4f3e46a56b59.png">
+</p>
+
+# API para Projetos e tarefas 
 
 API desenvolvida em Node.js realiza um **CRUD** relacionado a projetos e tarefas.
 
