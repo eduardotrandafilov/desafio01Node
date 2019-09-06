@@ -20,7 +20,7 @@ API desenvolvida em Node.js realiza um **CRUD** relacionado a projetos e tarefas
 
 ## Instalação
 
-1. Abra o terminal digite yarn e as dependências serão baixadas dentro do diretório node_modules e linkadas com outras automaticamente.
+Abra o terminal digite yarn e as dependências serão baixadas dentro do diretório node_modules e linkadas com outras automaticamente.
 
 ![API em Node](https://user-images.githubusercontent.com/9969265/64391773-5da2ec00-d020-11e9-9a0e-8338268bb786.gif)
 
