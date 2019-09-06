@@ -24,6 +24,9 @@ Abra o terminal digite yarn e as dependências serão baixadas dentro do diretó
 
 ![API em Node](https://user-images.githubusercontent.com/9969265/64391773-5da2ec00-d020-11e9-9a0e-8338268bb786.gif)
 
+# Licença
+
+Este projeto é licenciado pelo MIT .Veja a [license](https://github.com/eduardotrandafilov/desafio01Node/files/3581694/license.txt) para mais detalhes.
 
 
 
